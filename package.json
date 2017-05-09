@@ -1,6 +1,6 @@
 {
   "name": "@embarq/ngx-accordion",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Accordion for Angular apps",
   "module": "dist/ngx-accordion.js",
   "main": "dist/ngx-accordion.umd.js",
