@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/embarq/ngx-pagination"
+    "url": "https://github.com/embarq/ngx-accordion"
   },
   "bugs": {
-    "url": "https://github.com/embarq/ngx-pagination/issues"
+    "url": "https://github.com/embarq/ngx-accordion/issues"
   },
   "author": "Igor Lee <embarq.dev@gmail.com>",
   "license": "MIT",
