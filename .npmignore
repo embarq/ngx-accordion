@@ -55,6 +55,7 @@ webpack.config.js
 rollup.config.js
 gulpfile.js
 gulpfile.ts
+pnpm-debug.log
 !*.d.ts
 bs-config.js
 .travis.yml
